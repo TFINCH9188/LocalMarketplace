@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite dev",
-    "build": "svelte-kit build",
+    "build": "vite build",
+
     "preview": "svelte-kit preview"
   },
   "type": "module",
