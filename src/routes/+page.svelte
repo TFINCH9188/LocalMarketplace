@@ -58,4 +58,5 @@
 <style>
   body { font-family: sans-serif; }
 </style>
+Add full app UI to +page.svelte
 
