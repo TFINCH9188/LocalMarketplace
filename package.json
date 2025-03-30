@@ -11,7 +11,7 @@
     "gun": "^0.2020.1237",
     "@sveltejs/adapter-static": "^1.0.0",
     "@sveltejs/kit": "latest",
-    "svelte": "^3.59.1"
+    "svelte": "^3.59.1",
     "@sveltejs/kit": "next"
   },
   "devDependencies": {
