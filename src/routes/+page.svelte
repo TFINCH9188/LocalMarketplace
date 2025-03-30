@@ -1,3 +1,7 @@
+<script context="module">
+  export const prerender = true;
+</script>
+
 <script>
   import Gun from 'gun';
   import { onMount } from 'svelte';
