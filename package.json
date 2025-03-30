@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite dev",
-    "build": "vite build",
-
+    "build": "svelte-kit build"
     "preview": "svelte-kit preview"
   },
   "type": "module",
@@ -13,6 +12,7 @@
     "@sveltejs/adapter-static": "^1.0.0",
     "@sveltejs/kit": "latest",
     "svelte": "^3.59.1"
+    "@sveltejs/kit": "next"
   },
   "devDependencies": {
     "vite": "^4.0.0"
